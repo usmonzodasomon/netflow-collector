@@ -1,0 +1,7 @@
+  udp:
+    address: "217.11.185.181:2055"
+  multithreading:
+    num_goroutines: 4
+    buffer_size: 10
+  file:
+    path: "data.bin"
